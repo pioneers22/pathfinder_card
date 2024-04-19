@@ -147,7 +147,7 @@
 
 <details>
 <summary>
-奖励专长（战士1级）：精猛力攻击 (Power Attack) <sup>CRB</sup>〔战斗〕
+奖励专长（战士1级）：猛力攻击 (Power Attack) <sup>CRB</sup>〔战斗〕
 </summary>
 
 通过牺牲准度来换取力道，你能够做出异常致命的近战攻击。
