@@ -407,6 +407,7 @@ Some gathlains can use their unusual mentality as a defense against efforts to c
 一旦圣骑士的坐骑死了，在之后30天内，或者直到她在圣骑士职业上提升了等级，圣骑士将无法召唤另外一匹坐骑。在此30天期间内，圣骑士在攻击和伤害检定上都要受到-1减值。
 
 神契：武器誓约。
+
 </details>
 
 ---
