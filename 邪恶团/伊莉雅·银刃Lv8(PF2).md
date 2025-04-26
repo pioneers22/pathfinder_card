@@ -541,7 +541,7 @@ PFS 标准；专长分类 职业专长 ；相关 游荡者专长
 
 <details>
 <summary>
-8级技能专长:鲤狡猾猎物(Slippery Prey)
+8级技能专长:狡猾猎物(Slippery Prey)
 </summary>
 
 通用技能
